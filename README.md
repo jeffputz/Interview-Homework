@@ -3,11 +3,12 @@
 ## Instructions
 
 * Download the solution.
-* Look for the repository class that has a URL to an API endpoint full of amusement park information.
+* Look for the AmusementParkRepository class that has a URL to an API endpoint full of amusement park information.
 * Use the web project (ASP.NET MVC) to create a web app with the following acceptance criteria:
   * The app will show a list of amusement parks, showing their location by city/state/country.
   * Each item in the list will be a link to a detail page.
   * The detail page will show the full details of the park.
+  * Everything is responsive and mobile-friendly.
   * Optional bonus, if you have time: An embedded map that shows the location on the detail page.
 * System requirements:
   * Use the included MVC project for the web project, but you're otherwise free to organize as you choose.
